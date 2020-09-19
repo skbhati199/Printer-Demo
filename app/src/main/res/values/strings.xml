@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Printer Demo</string>
+    <string name="bitmap">Photo</string>
+    <string name="web_page">Web Page</string>
+    <string name="tps_report">TPS Report</string>
+    <string name="pdf">Pdf</string>
+    <string name="prose_hint">Text</string>
+</resources>
